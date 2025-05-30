@@ -100,7 +100,7 @@ export const allProjects = [
       { text: "Movie Reservation API", url: "https://github.com/Kshat111/movie-reservation-api", external: true },
       { text: "Expense Tracker API", url: "https://github.com/Kshat111/Expense-Tracker-API", external: true },
     ],
-    image: "/public/assets/images/backend.webp"
+    image: "/assets/images/backend.webp"
   },
 
   {
@@ -117,6 +117,6 @@ export const allProjects = [
     links: [
       // { text: "No Links as of now", url: "", external: false }
     ],
-    image: "/public/assets/images/project7.png"
+    image: "/assets/images/project7.png"
   }
 ]; 
