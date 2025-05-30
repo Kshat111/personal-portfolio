@@ -5,51 +5,51 @@ const DesignPage = () => {
   const designs = [
     { 
       id: 1, 
-      image: '/src/assets/designs/design1.png', 
+      image: '/assets/designs/design1.png', 
       alt: 'Dashboard UI Design for Disaster Alerting System',
       figmaLink: 'https://www.figma.com/design/WAfYfIfFlNqtbq1sbH4otF/disaster-alerting-system?node-id=0-1&t=MEK1eOb1Z65bwgez-1'
     },
     { 
       id: 2, 
-      image: '/src/assets/designs/design2.png', 
+      image: '/assets/designs/design2.png', 
       alt: 'Old Portfolio Design',
       figmaLink: 'https://www.figma.com/proto/qALhvdMPyywLMQaJSPpIYR/portfolio_designauts_onlycoreteam?node-id=7-3&starting-point-node-id=7%3A3&t=k490mBKKojzl63Ys-1'
     },
 
     { 
       id: 3, 
-      image: '/src/assets/designs/design3.png', 
+      image: '/assets/designs/design3.png', 
       alt: 'Chatbot Design - BOBGenie',
       figmaLink: 'https://www.figma.com/proto/BQciZQo55xMcC0OfQBmZsk/BOB-chatbot?node-id=722-2398&starting-point-node-id=722%3A2398&t=qqBHSjJNPIfRZ0yZ-1'
     },
     { 
       id: 4, 
-      image: '/src/assets/designs/Screenshot 2025-05-30 132227.png', 
+      image: '/assets/designs/Screenshot 2025-05-30 132227.png', 
       alt: 'Chainsaw Man'
     },
     { 
       id: 5, 
-      image: '/src/assets/designs/Screenshot 2025-05-30 132254.png', 
+      image: '/assets/designs/Screenshot 2025-05-30 132254.png', 
       alt: 'Adopting Happiness',
     },
     { 
       id: 6, 
-      image: '/src/assets/designs/Screenshot 2025-05-30 132237.png', 
+      image: '/assets/designs/Screenshot 2025-05-30 132237.png', 
       alt: 'Rebel Kid',
     },
     { 
       id: 7, 
-      image: '/src/assets/designs/Screenshot 2025-05-30 132309.png', 
+      image: '/assets/designs/Screenshot 2025-05-30 132309.png', 
       alt: 'Bombardino Crocodilo',
     },
     { 
       id: 8, 
-      image: '/src/assets/designs/Screenshot 2025-05-30 132325.png', 
+      image: '/assets/designs/Screenshot 2025-05-30 132325.png', 
       alt: 'Character Design',
     },
     { 
       id: 9, 
-      image: '/src/assets/designs/Screenshot 2025-05-30 132335.png', 
+      image: '/assets/designs/Screenshot 2025-05-30 132335.png', 
       alt: 'Character Design',
     },
 

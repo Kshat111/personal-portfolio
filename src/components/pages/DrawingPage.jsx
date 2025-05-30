@@ -3,22 +3,21 @@ import Container from '../shared/Container';
 
 const DrawingPage = () => {
   const illustrations = [
-    { id: 1, image: '/src/assets/drawings/a1.png', alt: 'Illustration 1' },
-    { id: 2, image: '/src/assets/drawings/a2.png', alt: 'Illustration 2' },
-    { id: 3, image: '/src/assets/drawings/a3.png', alt: 'Illustration 3' },
-    { id: 4, image: '/src/assets/drawings/a4.png', alt: 'Illustration 4' },
-    { id: 5, image: '/src/assets/drawings/a5.png', alt: 'Illustration 5' },
-    { id: 6, image: '/src/assets/drawings/a6.png', alt: 'Illustration 6' },
-    { id: 7, image: '/src/assets/drawings/a7.png', alt: 'Illustration 7' },
-    { id: 8, image: '/src/assets/drawings/a8.png', alt: 'Illustration 8' },
-    { id: 9, image: '/src/assets/drawings/a9.png', alt: 'Illustration 9' },
-    { id: 10, image: '/src/assets/drawings/a10.png', alt: 'Illustration 10' },
-    { id: 11, image: '/src/assets/drawings/a11.png', alt: 'Illustration 11' },
-    { id: 12, image: '/src/assets/drawings/a12.png', alt: 'Illustration 12' },
-    { id: 13, image: '/src/assets/drawings/a13.png', alt: 'Illustration 13' },
-    { id: 14, image: '/src/assets/drawings/a14.png', alt: 'Illustration 14' },
-    { id: 15, image: '/src/assets/drawings/a15.png', alt: 'Illustration 15' },
-
+    { id: 1, image: '/assets/drawings/a1.png', alt: 'Illustration 1' },
+    { id: 2, image: '/assets/drawings/a2.png', alt: 'Illustration 2' },
+    { id: 3, image: '/assets/drawings/a3.png', alt: 'Illustration 3' },
+    { id: 4, image: '/assets/drawings/a4.png', alt: 'Illustration 4' },
+    { id: 5, image: '/assets/drawings/a5.png', alt: 'Illustration 5' },
+    { id: 6, image: '/assets/drawings/a6.png', alt: 'Illustration 6' },
+    { id: 7, image: '/assets/drawings/a7.png', alt: 'Illustration 7' },
+    { id: 8, image: '/assets/drawings/a8.png', alt: 'Illustration 8' },
+    { id: 9, image: '/assets/drawings/a9.png', alt: 'Illustration 9' },
+    { id: 10, image: '/assets/drawings/a10.png', alt: 'Illustration 10' },
+    { id: 11, image: '/assets/drawings/a11.png', alt: 'Illustration 11' },
+    { id: 12, image: '/assets/drawings/a12.png', alt: 'Illustration 12' },
+    { id: 13, image: '/assets/drawings/a13.png', alt: 'Illustration 13' },
+    { id: 14, image: '/assets/drawings/a14.png', alt: 'Illustration 14' },
+    { id: 15, image: '/assets/drawings/a15.png', alt: 'Illustration 15' },
   ];
 
   return (

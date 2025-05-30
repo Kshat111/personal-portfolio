@@ -57,7 +57,7 @@ const Header = () => {
       <Container>
         <HeaderContent>
           <Logo to="/">
-            <img src="src/assets/images/profile-icon.svg" alt="logo" />
+            <img src="/assets/images/profile-icon.svg" alt="logo" />
           </Logo>
           
           {/* Desktop Navigation */}

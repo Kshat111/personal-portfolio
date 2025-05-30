@@ -14,11 +14,11 @@ export const allProjects = [
       { text: "GitHub", url: "https://github.com/Kshat111/snow-shield-aware" },
       { text: "Product", url: "https://snow-shield.vercel.app/", external: true }
     ],
-    image: "/src/assets/images/snowshield.png",
+    image: "/assets/images/snowshield.png",
     additionalImages: [
-      { url: "/src/assets/images/dashboard.png", caption: "Dashboard View" },
-      { url: "/src/assets/images/reportincident.png", caption: "Incident Reporting" },
-      { url: "/src/assets/images/sosalert.png", caption: "SOS Alert" },
+      { url: "/assets/images/dashboard.png", caption: "Dashboard View" },
+      { url: "/assets/images/reportincident.png", caption: "Incident Reporting" },
+      { url: "/assets/images/sosalert.png", caption: "SOS Alert" },
     ]
   },
   {
@@ -35,34 +35,33 @@ export const allProjects = [
     links: [
       { text: "GitHub", url: "https://github.com/that-coding-kid/BhedChaal" }
     ],
-    image: "/src/assets/images/bhedchaal.png",
+    image: "/assets/images/bhedchaal.png",
     additionalImages: [
-      { url: "/src/assets/images/detection.png", caption: "Detection" },
-      { url: "/src/assets/images/panicinjection.png", caption: "Panic Injection" },
-      { url: "/src/assets/images/spatialtrans.png", caption: "Spatial Transformation" },
-      { url: "/src/assets/images/stampede.png", caption: "Stampede Detection" },
+      { url: "/assets/images/detection.png", caption: "Detection" },
+      { url: "/assets/images/panicinjection.png", caption: "Panic Injection" },
+      { url: "/assets/images/spatialtrans.png", caption: "Spatial Transformation" },
+      { url: "/assets/images/stampede.png", caption: "Stampede Detection" },
     ]
   },
   {
     id: 3,
     title: "SADAK",
-    description: "An AI-powered road condition monitoring system that helps identify and report road damage in real-time.",
-    problemStatement: "Road maintenance often suffers from delayed reporting and inefficient monitoring systems. There was a need for an automated solution that could identify and report road conditions and congestion situations promptly.",
-    solution: "S.A.D.A.K is a real-time, AI-driven traffic flow optimization and congestion management tool developed for the Karnataka State Police Hackathon. It aims to modernize traffic monitoring by utilizing computer vision and drone footage analysis to detect congestion, identify bottlenecks, evaluate traffic signals at junctions, and assess map engine accuracy. The solution addresses three key sub-problems: Benchmarking map-based traffic predictions against drone-analyzed congestion data. Evaluating junction efficiency after optimizing traffic signal timing. Real-time detection of bottlenecks and encroachments to generate alerts for timely intervention.",
-    approach: "The approach of S.A.D.A.K integrates real-time computer vision with multi-source video analysis to monitor, evaluate, and optimize urban traffic conditions. Leveraging pre-trained models like YOLOv8 along with custom-trained encroachment detection on UAV and Indian traffic datasets, the system processes inputs from static images, recorded videos, live RTSP streams, YouTube videos, and webcams. It identifies vehicles, detects bottlenecks based on zone-specific wait times, and benchmarks congestion levels against map engine data. Additionally, specialized modules evaluate traffic signal efficiency at junctions and generate datasets for further analysis, all accessible through a user-friendly Streamlit-based interface for local or web deployment.",
-    tags: ["AI", "Computer Vision", "Python", "Streamlit"],
+    description: "A comprehensive road safety analysis platform that uses AI to detect road damage and assess infrastructure quality.",
+    problemStatement: "Road infrastructure maintenance is often reactive rather than proactive, leading to safety hazards and inefficient resource allocation. There was a need for an automated system to continuously monitor and assess road conditions.",
+    solution: "SADAK uses computer vision to analyze road imagery, detecting and classifying various types of damage. It provides detailed reports and visualizations to help authorities prioritize maintenance work.",
+    approach: "We developed a custom CNN model for damage detection, integrated with a user-friendly web interface. The system includes features for data visualization and report generation.",
+    tags: ["Python", "TensorFlow", "Computer Vision", "Streamlit"],
     category: ["AI/ML", "Development"],
-    year: 2021,
+    year: 2024,
     featured: true,
     links: [
       { text: "GitHub", url: "https://github.com/that-coding-kid/S.A.D.A.K" },
       { text: "Product", url: "https://sadakapp.streamlit.app/", external: true }
     ],
-    image: "/src/assets/images/sadak.png",
+    image: "/assets/images/sadak.png",
     additionalImages: [
-      { url: "/src/assets/images/sadak_dash.png", caption: "Dashboard" },
-      { url: "/src/assets/images/architecture.png", caption: "Architecture" },
-      // { url: "/src/assets/images/sadak-report.png", caption: "Analysis Report" }
+      { url: "/assets/images/sadak_dash.png", caption: "Dashboard" },
+      { url: "/assets/images/architecture.png", caption: "Architecture" },
     ]
   },
   {
@@ -80,10 +79,9 @@ export const allProjects = [
       { text: "GitHub", url: "https://github.com/Kshat111/kanban-board" },
       { text: "Product", url: "https://61jsolapa0rxp8qs.vercel.app/", external: true }
     ],
-    image: "/src/assets/images/kanbanboard.jpg",
+    image: "/assets/images/kanbanboard.jpg",
     additionalImages: [
-      { url: "/src/assets/images/kanban.png", caption: "Dashboard" },
-      // { url: "/src/assets/images/kanban-task-detail.png", caption: "Task Details" }
+      { url: "/assets/images/kanban.png", caption: "Dashboard" },
     ]
   },
   {
@@ -102,7 +100,7 @@ export const allProjects = [
       { text: "Movie Reservation API", url: "https://github.com/Kshat111/movie-reservation-api", external: true },
       { text: "Expense Tracker API", url: "https://github.com/Kshat111/Expense-Tracker-API", external: true },
     ],
-    image: "/src/assets/images/backend.webp"
+    image: "/public/assets/images/backend.webp"
   },
 
   {
@@ -119,6 +117,6 @@ export const allProjects = [
     links: [
       // { text: "No Links as of now", url: "", external: false }
     ],
-    image: "/src/assets/images/project7.png"
+    image: "/public/assets/images/project7.png"
   }
 ]; 

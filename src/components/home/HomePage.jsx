@@ -67,7 +67,7 @@ const HomePage = () => {
         { text: "GitHub", url: "https://github.com/Kshat111/snow-shield-aware" },
         { text: "Product", url: "https://snow-shield.vercel.app/", external: true }
       ],
-      image: "/src/assets/images/snowshield.png"
+      image: "/assets/images/snowshield.png"
     },
     {
       id: 2,
@@ -77,7 +77,7 @@ const HomePage = () => {
         { text: "GitHub", url: "https://github.com/that-coding-kid/BhedChaal" },
         // { text: "Live", url: "https://lgbtmyths.com", external: true }
       ],
-      image: "/src/assets/images/bhedchaal.png"
+      image: "/assets/images/bhedchaal.png"
     },
     {
       id: 3,
@@ -87,7 +87,7 @@ const HomePage = () => {
         { text: "GitHub", url: "https://github.com/that-coding-kid/S.A.D.A.K" },
         { text: "Product", url: "https://sadakapp.streamlit.app/", external: true }
       ],
-      image: "/src/assets/images/sadak.png"
+      image: "/assets/images/sadak.png"
     },
     {
       id: 4,
@@ -97,7 +97,7 @@ const HomePage = () => {
         { text: "GitHub", url: "https://github.com/Kshat111/kanban-board" },
         { text: "Product", url: "https://61jsolapa0rxp8qs.vercel.app/", external: true }
       ],
-      image: "/src/assets/images/kanbanboard.jpg"
+      image: "/assets/images/kanbanboard.jpg"
     }
   ];
   
@@ -114,7 +114,7 @@ const HomePage = () => {
             
             <HeroImage>
               <div className="avatar-circle">
-                <img src="/src/assets/images/main_pic.png" alt="Portrait" />
+                <img src="/assets/images/main_pic.png" alt="Portrait" />
               </div>
             </HeroImage>
             
@@ -134,7 +134,7 @@ const HomePage = () => {
               <CurrentPosition>
                 <span>Currently SDE Intern at</span>
                 <CurrentCompany>
-                  <span className="company-icon"><img src="/src/assets/images/amazon.webp" alt="Amazon" /></span>
+                  <span className="company-icon"><img src="/assets/images/amazon.webp" alt="Amazon" /></span>
                 </CurrentCompany>
               </CurrentPosition>
             </CurrentPositionWrapper>
@@ -200,7 +200,7 @@ const HomePage = () => {
               <MoreItemContent>
                 <AboutMeContent>
                   <AboutImage>
-                    <img src="/src/assets/images/about-pic.jpg" alt="About Me" />
+                    <img src="/assets/images/about-pic.jpg" alt="About Me" />
                   </AboutImage>
                 </AboutMeContent>
               </MoreItemContent>

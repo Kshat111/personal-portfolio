@@ -211,4 +211,4 @@ const CtaContainer = styled.div`
   }
 `;
 
-const ScrollIndicator = styled.div`
+// const ScrollIndicator = styled.div`

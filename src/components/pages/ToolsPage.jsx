@@ -5,42 +5,42 @@ const ToolsPage = () => {
   const tools = [
     {
       name: "FIGMA",
-      icon: "/src/assets/icons/figma.png",
+      icon: "/assets/icons/figma.png",
       description: "My design playground. I use Figma to create wireframes, prototypes, and components—all while collaborating in real-time with teammates."
     },
     {
       name: "TASKSBOARD",
-      icon: "/src/assets/icons/tasksboard.png",
+      icon: "/assets/icons/tasksboard.png",
       description: "I use it to manage personal projects and daily to-dos—everything stays synced with my Google account."
     },
     {
       name: "NAPKIN AI",
-      icon: "/src/assets/icons/napkin.jpg",
+      icon: "/assets/icons/napkin.jpg",
       description: "Napkin helps me capture thoughts and auto-organizes them with AI. It even lets you run prompts to extract ideas or insights from your notes."
     },
     {
       name: "CANVA",
-      icon: "/src/assets/icons/canva.png",
-      description: "When I need quick, beautiful visuals—social posts, decks, or mockups—Canva is my go-to. It’s simple, fast, and surprisingly powerful."
+      icon: "/assets/icons/canva.png",
+      description: "When I need quick, beautiful visuals—social posts, decks, or mockups—Canva is my go-to. It's simple, fast, and surprisingly powerful."
     },
     {
       name: "PINTEREST",
-      icon: "/src/assets/icons/pinterest.png",
+      icon: "/assets/icons/pinterest.png",
       description: "My go-to moodboarding tool. I collect design inspo, reference styles, and organize ideas visually for any project or creative spark."
     },
     {
       name: "REPLIT",
-      icon: "/src/assets/icons/replit.png",
+      icon: "/assets/icons/replit.png",
       description: "Replit lets me code from anywhere in the browser—no setup needed. I prototype, test, and deploy small apps right from the cloud."
     },
     {
       name: "CURSOR",
-      icon: "/src/assets/icons/cursor.jpg",
+      icon: "/assets/icons/cursor.jpg",
       description: "Cursor is like a supercharged coding buddy powered by AI. It helps me write, refactor, and debug code with contextual intelligence."
     },
     {
       name: "STRAVA",
-      icon: "/src/assets/icons/strava.png",
+      icon: "/assets/icons/strava.png",
       description: "My digital running and cycling diary. I track workouts, set goals, and geek out on stats—all while staying connected with fellow athletes."
     }
   ];
