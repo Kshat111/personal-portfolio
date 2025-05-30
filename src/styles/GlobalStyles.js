@@ -81,7 +81,8 @@ export const GlobalStyles = createGlobalStyle`
   
   body {
     font-family: var(--font-primary);
-    background: var(--gradient-primary);
+    background: var(--background);
+    background-image: var(--gradient-primary);
     color: var(--text-primary);
     line-height: 1.6;
     transition: background-color var(--transition-normal),
@@ -91,6 +92,7 @@ export const GlobalStyles = createGlobalStyle`
     flex-direction: column;
     align-items: center;
     position: relative;
+    min-height: 100vh;
   }
   
   /* Background gradient overlays */
