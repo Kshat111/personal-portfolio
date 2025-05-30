@@ -69,241 +69,241 @@ const AboutPage = () => {
 
     { 
       name: 'JavaScript',
-      icon: '/public/assets/icons/js.png',
+      icon: '/assets/icons/js.png',
       category: 'Languages'
     },
     { 
       name: 'C++',
-      icon: '/public/assets/icons/cpp.png',
+      icon: '/assets/icons/cpp.png',
       category: 'Languages'
     },
     { 
       name: 'TypeScript',
-      icon: '/public/assets/icons/typescript.png',
+      icon: '/assets/icons/typescript.png',
       category: 'Languages'
     },
     { 
       name: 'Java',
-      icon: '/public/assets/icons/java.png',
+      icon: '/assets/icons/java.png',
       category: 'Languages'
     },
     { 
       name: 'Python',
-      icon: '/public/assets/icons/python.png',
+      icon: '/assets/icons/python.png',
       category: 'Languages'
     },
     { 
       name: 'HTML5',
-      icon: '/public/assets/icons/html.png',
+      icon: '/assets/icons/html.png',
       category: 'Frontend'
     },
     { 
       name: 'CSS3',
-      icon: '/public/assets/icons/css.png',
+      icon: '/assets/icons/css.png',
       category: 'Frontend'
     },
     { 
       name: 'React',
-      icon: '/public/assets/icons/react.png',
+      icon: '/assets/icons/react.png',
       category: 'Frontend'
     },
     {
       name: 'Redux',
-      icon: '/public/assets/icons/redux.png',
+      icon: '/assets/icons/redux.png',
       category: 'Frontend'
     },
     {
       name: 'Bootstrap',
-      icon: '/public/assets/icons/bootstrap.png',
+      icon: '/assets/icons/bootstrap.png',
       category: 'Frontend'
     },
     {
       name: 'Tailwind CSS',
-      icon: '/public/assets/icons/tailwind.png',
+      icon: '/assets/icons/tailwind.png',
       category: 'Frontend'
     },
     {
       name: 'Shadcn UI',
-      icon: '/public/assets/icons/shadcn.png',
+      icon: '/assets/icons/shadcn.png',
       category: 'Frontend'
     },
     {
       name: 'Streamlit',
-      icon: '/public/assets/icons/streamlit.png',
+      icon: '/assets/icons/streamlit.png',
       category: 'Frontend'
     },
     {
       name: 'Vaadin',
-      icon: '/public/assets/icons/vaadin.png',
+      icon: '/assets/icons/vaadin.png',
       category: 'Frontend'
     },
     {
       name: 'Three JS',
-      icon: '/public/assets/icons/threejs.png',
+      icon: '/assets/icons/threejs.png',
       category: 'Frontend'
     },    {
       name: 'GSAP',
-      icon: '/public/assets/icons/gsap.jpg',
+      icon: '/assets/icons/gsap.jpg',
       category: 'Frontend'
     },
     {
       name: 'NodeJS',
-      icon: '/public/assets/icons/nodejs.png',
+      icon: '/assets/icons/nodejs.png',
       category: 'Backend'
     },
     {
       name: 'Cloudinary',
-      icon: '/public/assets/icons/cloudinary.png',
+      icon: '/assets/icons/cloudinary.png',
       category: 'Backend'
     },
     {
       name: 'ExpressJS',
-      icon: '/public/assets/icons/express.png',
+      icon: '/assets/icons/express.png',
       category: 'Backend'
     },
     {
       name: 'NextJS',
-      icon: '/public/assets/icons/nextjs.png',
+      icon: '/assets/icons/nextjs.png',
       category: 'Backend'
     },
     {
       name: 'Nodemailer',
-      icon: '/public/assets/icons/nodemailer.png',
+      icon: '/assets/icons/nodemailer.png',
       category: 'Backend'
     },
     {
       name: 'Postman',
-      icon: '/public/assets/icons/postman.png',
+      icon: '/assets/icons/postman.png',
       category: 'Backend'
     },
     {
       name: 'FastAPI',
-      icon: '/public/assets/icons/fastapi.png',
+      icon: '/assets/icons/fastapi.png',
       category: 'Backend'
     },
     {
       name: 'Spring Boot',
-      icon: '/public/assets/icons/springboot.png',
+      icon: '/assets/icons/springboot.png',
       category: 'Backend'
     },
     {
       name: 'MongoDB',
-      icon: '/public/assets/icons/mongodb.png',
+      icon: '/assets/icons/mongodb.png',
       category: 'Database'
     },
     {
       name: 'MySQL',
-      icon: '/public/assets/icons/mysql.png',
+      icon: '/assets/icons/mysql.png',
       category: 'Database'
     },
     {
       name: 'PostgreSQL',
-      icon: '/public/assets/icons/postgresql.png',
+      icon: '/assets/icons/postgresql.png',
       category: 'Database'
     },
     {
       name: 'Firebase',
-      icon: '/public/assets/icons/firebase.png',
+      icon: '/assets/icons/firebase.png',
       category: 'Database'
     },
     {
       name: 'Mongoose',
-      icon: '/public/assets/icons/mongoose.jpg',
+      icon: '/assets/icons/mongoose.jpg',
       category: 'Database'
     },
     {
       name: 'AWS',
-      icon: '/public/assets/icons/aws.png',
+      icon: '/assets/icons/aws.png',
       category: 'DevOps and Cloud'
     },
     {
       name: 'Docker',
-      icon: '/public/assets/icons/docker.png',
+      icon: '/assets/icons/docker.png',
       category: 'DevOps and Cloud'
     },
     {
       name: 'GCP',
-      icon: '/public/assets/icons/gcp.png',
+      icon: '/assets/icons/gcp.png',
       category: 'DevOps and Cloud'
     },
     {
       name: 'Git',
-      icon: '/public/assets/icons/git.jpg',
+      icon: '/assets/icons/git.jpg',
       category: 'DevOps and Cloud'
     },
     {
       name: 'GitHub',
-      icon: '/public/assets/icons/github.jpg',
+      icon: '/assets/icons/github.jpg',
       category: 'DevOps and Cloud'
     },
     {
       name: 'Kubernetes',
-      icon: '/public/assets/icons/kubernetes.png',
+      icon: '/assets/icons/kubernetes.png',
       category: 'DevOps and Cloud'
     },
     {
       name: 'Ubuntu',
-      icon: '/public/assets/icons/ubuntu.png',
+      icon: '/assets/icons/ubuntu.png',
       category: 'DevOps and Cloud'
     },
     {
       name: 'Jenkins',
-      icon: '/public/assets/icons/jenkins.png',
+      icon: '/assets/icons/jenkins.png',
       category: 'DevOps and Cloud'
     },
     {
       name: 'Vercel',
-      icon: '/public/assets/icons/vercel.png',
+      icon: '/assets/icons/vercel.png',
       category: 'DevOps and Cloud'
     },   
     {
       name: 'Adobe Photoshop',
-      icon: '/public/assets/icons/adobephotoshop.png',
+      icon: '/assets/icons/adobephotoshop.png',
       category: 'Design'
     }, 
     {
       name: 'Adobe Illustrator',
-      icon: '/public/assets/icons/adobeillustrator.png',
+      icon: '/assets/icons/adobeillustrator.png',
       category: 'Design'
     }, 
     {
       name: 'Figma',
-      icon: '/public/assets/icons/figma.png',
+      icon: '/assets/icons/figma.png',
       category: 'Design'
     }, 
     {
       name: 'Blender',
-      icon: '/public/assets/icons/blender.png',
+      icon: '/assets/icons/blender.png',
       category: 'Design'
     }, 
     {
       name: 'Google Colab',
-      icon: '/public/assets/icons/colab.png',
+      icon: '/assets/icons/colab.png',
       category: 'Other Tools'
     }, 
     {
       name: 'Jira',
-      icon: '/public/assets/icons/jira.png',
+      icon: '/assets/icons/jira.png',
       category: 'Other Tools'
     }, 
     {
       name: 'Pytorch',
-      icon: '/public/assets/icons/pytorch.png',
+      icon: '/assets/icons/pytorch.png',
       category: 'Other Tools'
     }, 
     {
       name: 'Roboflow',
-      icon: '/public/assets/icons/roboflow.png',
+      icon: '/assets/icons/roboflow.png',
       category: 'Other Tools'
     },     
     {
       name: 'Tensorflow',
-      icon: '/public/assets/icons/tensorflow.png',
+      icon: '/assets/icons/tensorflow.png',
       category: 'Other Tools'
     }, 
     {
       name: 'VS Code',
-      icon: '/public/assets/icons/vscode.png',
+      icon: '/assets/icons/vscode.png',
       category: 'Other Tools'
     }, 
   ];
